@@ -28,7 +28,7 @@ To get started with HWGAT for sign language recognition, follow these steps:
     cd sl-hwgat/hwgat
     ```
 
-2. ### Install Docker and NVIDIA Container Toolkit.
+2. Install Docker and NVIDIA Container Toolkit.
    
    Install docker by following [this](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04) tutorial.
    Then install the [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html).
