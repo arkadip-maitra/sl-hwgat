@@ -24,7 +24,7 @@ To get started with HWGAT for sign language recognition, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/suvajit-patra/sl-hwgat.git
+    git clone https://github.com/arkadip-maitra/sl-hwgat.git
     cd sl-hwgat/hwgat
     ```
 
